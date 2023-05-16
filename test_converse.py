@@ -1,5 +1,5 @@
 import unittest
-from main import currency_conversion
+from converse import currency_conversion
 
 class CodingRoomsUnitTests(unittest.TestCase):
     def setUp(self):
